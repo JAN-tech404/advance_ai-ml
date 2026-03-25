@@ -4,9 +4,9 @@ This repository contains a collection of high-impact machine learning projects f
 🛠️ Installation & Setup
 
 To run these projects locally, ensure you have Python 3.8+ installed. You can install all necessary components using the following command:
-Bash
+ Bash
 
-pip install torch torchvision transformers datasets pandas numpy scikit-learn pillow matplotlib seaborn joblib
+     pip install torch torchvision transformers datasets pandas numpy scikit-learn pillow matplotlib seaborn joblib
 
 📂 Project Portfolio
 1. BERT News Classification
